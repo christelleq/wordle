@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Stymie';
+  src: url('../public/fonts/stymie-bold-bt.ttf')
+}
+
+@font-face {
+  font-family: 'Clear\\ Sans';
+  src: url('../public/fonts/clear-sans-thin.ttf')
+}
