@@ -5,6 +5,9 @@ module.exports = {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      lineHeight: {
+        12: '3rem',
+      },
       fontFamily: {
         serif: [
           'Clear\\ Sans',

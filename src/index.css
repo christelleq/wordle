@@ -4,10 +4,10 @@
 
 @font-face {
   font-family: 'Stymie';
-  src: url('../public/fonts/stymie-bold-bt.ttf')
+  src: url('../fonts/stymie-bold-bt.ttf')
 }
 
 @font-face {
   font-family: 'Clear\\ Sans';
-  src: url('../public/fonts/clear-sans-thin.ttf')
+  src: url('../fonts/clear-sans-thin.ttf')
 }

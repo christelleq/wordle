@@ -7,7 +7,15 @@ export default function GamePage() {
   return (
     <>
       <Title />
-      <Tiles />
+      <Tiles
+        rows={[
+          ['h', 'e', 'l', 'l', 'o'],
+          ['h', 'e', 'l', 'l', 'o'],
+          ['h', 'e', 'l', 'l', 'o'],
+          ['h', 'e', 'l', 'l', 'o'],
+          ['h', 'e', 'l', 'l', 'o'],
+        ]}
+      />
       <Keyboard />
     </>
   )
